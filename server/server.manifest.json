@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/admin/[_]itemId/index.js": "pages/admin/[_]itemId/index.js",
+    "pages/admin/add-item/index.js": "pages/admin/add-item/index.js",
+    "pages/admin/index.js": "pages/admin/index.js",
+    "pages/borrow/index.js": "pages/borrow/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/items/[_]id/index.js": "pages/items/[_]id/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/admin/[_]itemId/index.js": "pages/admin/[_]itemId/index.js.map",
+    "pages/admin/add-item/index.js": "pages/admin/add-item/index.js.map",
+    "pages/admin/index.js": "pages/admin/index.js.map",
+    "pages/borrow/index.js": "pages/borrow/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/items/[_]id/index.js": "pages/items/[_]id/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
